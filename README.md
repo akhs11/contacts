@@ -1,2 +1,2 @@
-# contans
+# contacts
 Αρχικό project ΤΛ
